@@ -8,7 +8,7 @@ import {
   Clock,
 } from 'lucide-react';
 import { BatchItem, VerificationResult } from '../types';
-import { analyzeSolarImage } from 'C:/Users/LENOVO/Downloads/solardetect/src/services/geminiService.ts';
+import { analyzeSolarImage } from '../services/geminiService';
 
 /* ---------------- INITIAL BATCH ---------------- */
 
