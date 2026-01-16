@@ -1,0 +1,5 @@
+{
+  "name": "SolarDetect",
+  "description": "Remote verification of rooftop solar installations using satellite imagery and AI for PM Surya Ghar: Muft Bijli Yojana.",
+  "requestFramePermissions": []
+}
