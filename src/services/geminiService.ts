@@ -1,4 +1,4 @@
-import { VerificationResult } from "../../types";
+import { VerificationResult } from "../types";
 
 export const analyzeSolarImage = async (
   base64Image: string

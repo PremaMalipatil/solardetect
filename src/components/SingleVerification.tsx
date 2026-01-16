@@ -8,7 +8,7 @@ import {
   Loader2,
   ScanEye,
 } from 'lucide-react';
-import { analyzeSolarImage } from '../src/services/geminiService';
+import { analyzeSolarImage } from '../services/geminiService';
 import { VerificationResult } from '../types';
 
 export const SingleVerification: React.FC = () => {
