@@ -6,7 +6,7 @@ export const analyzeSolarImage = async (
 
   const cleanBase64 = base64Image.split(",")[1] || base64Image;
 
-  const response = await fetch("http://localhost:5000/analyze", {
+  const response = await fetch("https://solardetect-1.onrender.com/", {
     method: "POST",
     headers: {
       "Content-Type": "application/json",
